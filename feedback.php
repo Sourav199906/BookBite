@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['feedback'])) {
     }
 } else {
     // Redirect back to home page if accessed improperly
-    header('Location: home.html');
+    header('Location: index.html');
     exit;
 }
 ?>
