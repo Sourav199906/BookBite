@@ -1,0 +1,31 @@
+/* Contact Details Styling */
+.contact-details {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    line-height: 1.6;
+}
+
+.contact-details h2 {
+    color: #4caf50;
+    margin-bottom: 10px;
+}
+
+.contact-details p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.contact-details a {
+    color: #4caf50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-details a:hover {
+    text-decoration: underline;
+}
